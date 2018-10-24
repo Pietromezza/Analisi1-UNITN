@@ -1,7 +1,7 @@
 # Analisi1-UNITN
 Questa repository contiene il sorgente LaTex per gli appunti di Analisi 1 in UNITN.
 Il file compilato in PDF è accessibile nella cartella condivisa: [UNITN notes](https://bit.ly/Unitn-notes).
-Si tenterà di tenere aggiornato in modo che entro 1 o 2 giorni dalla lezione siano presenti gli appunti relativi; non è una garanzia, per questo chiunque è invitato a [contribuire](#come-contribuire)
+Si tenterà di tenere aggiornato in modo che entro 1 o 2 giorni dalla lezione siano presenti gli appunti relativi; non è una garanzia, per questo chiunque è invitato a [contribuire](#come-contribuire).
 
 ## Struttura del repository
 Il documento principale Analisi1-Unitn.tex è nella cartella principale. Esso include le librerie necessarie a compilare il documento in PDF e poi include il file contenente la pagina di titolo e il file che definisce i capitoli (chapters.tex) e si trova nella cartella chapters. Ogni capitolo è scritto in un file apposito nella cartella chapters.
@@ -12,4 +12,4 @@ Eventuali immagini saranno inserite nella cartella images e il loro nome dovrà 
 * Aprendo una Issue nel repository
 * Contattandomi personalmente su Telegram a [@ZamboniM](https://t.me/ZamboniM)
 * Contattandomi personalmente via mail a marco.zamboni-2@studenti.unitn.it
-* Mettendo una stella al repo; così so che viene apprezzato
+* Mettendo una stella al repo; così so che viene apprezzato.
